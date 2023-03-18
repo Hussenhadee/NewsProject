@@ -25,6 +25,10 @@ namespace WindowsFormsmaster
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "mohammed";
+            textBox1.Text = "ali";
+            textBox1.Text = "hussen";
+            textBox1.Text = "hader";
+
         }
     }
 }
